@@ -6,7 +6,7 @@ repo:
   branch: main #change default branch 
   repo: tag-test #change default repository
   owner: safrilth #change default owner (it's your github Username)
-  autoclean: false #enable auto cleaning
+  autoclean: true #enable auto cleaning
 ---
 
 ![image|300](https://www.frisianflag.com/storage/app/media/uploaded-files/martabak-red-velvet.jpg)
