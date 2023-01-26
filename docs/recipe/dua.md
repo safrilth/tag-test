@@ -1,6 +1,7 @@
 ---
 publish-path: recipe
-tags: tag2
+tags: 
+ - tag2
 share: true
 repo:
   branch: main #change default branch 
